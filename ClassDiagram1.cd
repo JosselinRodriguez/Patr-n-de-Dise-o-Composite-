@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp6.COMPONENTP">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>COMPONENTP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp6.PastelCOMPOSITE">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAIAAAAAABAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>PastelCOMPOSITE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp6.INGREDIENTESP">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="ConsoleApp6.COMPONENTP" ManuallyRouted="true">
+      <Path>
+        <Point X="6.625" Y="2.234" />
+        <Point X="6.625" Y="2.587" />
+        <Point X="4.75" Y="2.587" />
+        <Point X="4.75" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INGREDIENTESP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>
